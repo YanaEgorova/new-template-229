@@ -124,6 +124,9 @@
 }
 
 @media screen and (min-width: 1440px)  {
+    .hero__block {
+        padding-left: 5rem;
+    }
     .contacts,
     .policy {
         background-color: var(--first-brand-color);
